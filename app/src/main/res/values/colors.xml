@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="text">#ff5663</color>
-    <color name="ButtonRed">#ffbcc13</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="ButtonRed">#ff5a66</color>
+    <color name="Whitetext">#ffffff</color>
+    <color name="background">#FDFDFD</color>
 </resources>
