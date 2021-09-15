@@ -3,5 +3,7 @@
     <color name="text">#ff5663</color>
     <color name="ButtonRed">#ff5a66</color>
     <color name="Whitetext">#ffffff</color>
+    <color name="blue">#4367B3</color>
     <color name="background">#FDFDFD</color>
+
 </resources>
